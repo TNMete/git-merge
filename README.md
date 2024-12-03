@@ -1,3 +1,3 @@
 # git-merge
 
-Test123
+TEST
